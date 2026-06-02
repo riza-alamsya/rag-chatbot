@@ -1,4 +1,4 @@
-# PHIS RAG Chatbot
+# RAG Chatbot
 
 **Offline Retrieval-Augmented Generation untuk Dokumentasi PHIS SAM**
 
